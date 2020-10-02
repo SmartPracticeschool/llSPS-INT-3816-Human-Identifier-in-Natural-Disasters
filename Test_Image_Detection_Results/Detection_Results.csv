@@ -1,0 +1,33 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+0010.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\0010.jpg,7,13,267,171,0,0.49334418773651123,283,178
+0011.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\0011.jpg,6,0,277,175,0,0.3131333589553833,287,175
+0014.jpeg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\0014.jpeg,316,133,2722,1912,0,0.8743067979812622,3000,2024
+002.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\002.jpg,0,11,275,178,0,0.9279079437255859,275,183
+006.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\006.jpg,0,0,225,225,0,0.8339149355888367,225,225
+01.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\01.jpg,141,47,206,105,1,0.2979462742805481,299,169
+01.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\01.jpg,66,76,113,169,1,0.4926321804523468,299,169
+01.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\01.jpg,236,69,261,112,1,0.6275354027748108,299,169
+039.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\039.jpg,266,81,300,168,1,0.49949225783348083,300,168
+039.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\039.jpg,174,68,225,160,1,0.588030993938446,300,168
+039.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\039.jpg,81,96,137,166,1,0.6811130046844482,300,168
+1.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\1.jpg,30,4,39,27,1,0.3083088994026184,280,180
+1.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\1.jpg,211,41,232,79,1,0.3738667368888855,280,180
+1.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\1.jpg,222,13,260,99,1,0.6318021416664124,280,180
+11.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\11.jpg,16,12,258,175,1,0.3027205169200897,275,183
+11.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\11.jpg,169,41,217,148,1,0.34475812315940857,275,183
+11.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\11.jpg,228,65,275,131,1,0.5455937385559082,275,183
+11.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\11.jpg,88,9,154,183,1,0.6281697154045105,275,183
+11.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\11.jpg,43,32,60,72,1,0.6495423316955566,275,183
+13.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\13.jpg,27,0,119,177,1,0.9734293818473816,284,177
+1THASSAM.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\1THASSAM.jpg,51,160,81,214,1,0.27628815174102783,615,384
+39.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\39.jpg,132,82,174,160,1,0.861365556716919,300,168
+40.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\40.jpg,63,111,92,172,1,0.9885654449462891,259,194
+55.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\55.jpg,110,88,152,191,1,0.7019950747489929,259,194
+download.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\download.jpg,190,108,215,139,1,0.655515193939209,299,168
+images (43).jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\images (43).jpg,76,52,122,165,1,0.40462741255760193,276,183
+images (43).jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\images (43).jpg,52,64,149,150,1,0.4971441328525543,276,183
+n.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\n.jpg,225,86,275,165,1,0.6490416526794434,300,168
+q.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\q.jpg,109,121,173,180,1,0.6973393559455872,275,183
+q.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\q.jpg,3,112,31,183,1,0.7180259823799133,275,183
+q.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\q.jpg,54,133,71,183,1,0.8251172304153442,275,183
+_96539233_c8a0d2ee-e7de-4430-a049-6584404cd7e9.jpg,C:\Users\Sheetal P\Desktop\yolo_structure\Data\Source_Images\Test_Images\_96539233_c8a0d2ee-e7de-4430-a049-6584404cd7e9.jpg,3,0,976,549,0,0.7838636636734009,976,549
